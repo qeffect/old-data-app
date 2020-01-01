@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5C0BC848-ADEC-463D-8109-E69F4CB371F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QAnon.Delta.Tool", "src\QAnon.Delta.Tool\QAnon.Delta.Tool.csproj", "{73AC3D45-AD2F-40AA-86CB-B5F87EA0423F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73AC3D45-AD2F-40AA-86CB-B5F87EA0423F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73AC3D45-AD2F-40AA-86CB-B5F87EA0423F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73AC3D45-AD2F-40AA-86CB-B5F87EA0423F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{73AC3D45-AD2F-40AA-86CB-B5F87EA0423F}.Debug|x64.Build.0 = Debug|Any CPU
+		{73AC3D45-AD2F-40AA-86CB-B5F87EA0423F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{73AC3D45-AD2F-40AA-86CB-B5F87EA0423F}.Debug|x86.Build.0 = Debug|Any CPU
+		{73AC3D45-AD2F-40AA-86CB-B5F87EA0423F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73AC3D45-AD2F-40AA-86CB-B5F87EA0423F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73AC3D45-AD2F-40AA-86CB-B5F87EA0423F}.Release|x64.ActiveCfg = Release|Any CPU
+		{73AC3D45-AD2F-40AA-86CB-B5F87EA0423F}.Release|x64.Build.0 = Release|Any CPU
+		{73AC3D45-AD2F-40AA-86CB-B5F87EA0423F}.Release|x86.ActiveCfg = Release|Any CPU
+		{73AC3D45-AD2F-40AA-86CB-B5F87EA0423F}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{73AC3D45-AD2F-40AA-86CB-B5F87EA0423F} = {5C0BC848-ADEC-463D-8109-E69F4CB371F3}
+	EndGlobalSection
+EndGlobal
